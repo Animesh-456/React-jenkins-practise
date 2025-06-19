@@ -11,6 +11,8 @@
 # production
 /build
 
+Jenkinsfile
+
 # misc
 .DS_Store
 .env.local
